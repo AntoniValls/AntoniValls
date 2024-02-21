@@ -2,8 +2,9 @@
 
 I am a theoretical physicist and AI enthusiast currently doing a Data Science master degree in @UNIPD. 
 
-Right now, I am very interested in the development of ethic AI models that can help us to fight against the 21 century main challenges, including the proliferation of fake news  and the urgent need to address climate change.
+Right now, I am very interested in the development of ethic AI models that can help us to fight against the 21st century main challenges, including the proliferation of fake news  and the urgent need to address climate change.
 
+I also love climbing 🧗‍♂️, movies 🎦 and reading 📚.
 <!--
 **AntoniValls/AntoniValls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
