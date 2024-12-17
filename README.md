@@ -1,6 +1,7 @@
 # Hello world! :alien:
 
-I am a theoretical physicist and AI enthusiast currently doing a Data Science master degree in @UNIPD and an internship in @IIIA.
+I am a theoretical physicist and data scientist with a strong interest in deep learning and artificial intelligence.
+
 <!--
 **AntoniValls/AntoniValls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
