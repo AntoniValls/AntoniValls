@@ -1,6 +1,6 @@
-# Hello world! :alien:
+# Hello world! 
 
-I am a theoretical physicist and data scientist with a strong interest in deep learning, computer vision and artificial intelligence.
+I am a theoretical physicist and data scientist with a strong interest in deep learning and computer vision.
 
 <!--
 **AntoniValls/AntoniValls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
